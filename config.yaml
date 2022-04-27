@@ -145,12 +145,12 @@ params:
     # option to specify your twitter username in the footer;
     # **uncomment** the below lines to show in footer
     twitter: 
-      link: "https://www.twitter.com/ggleicec"
+      link: ggleicec
       title: Twitter
     # option to specify your instagram username in the footer; 
     # **uncomment** the below lines to show in footer
     instagram: 
-      link: "https://www.instagram.com/ggleicec"
+      link: ggleicec
       title: Instagram
     # option to specify your telegram username in the footer; 
     # **uncomment** the below lines to show in footer
