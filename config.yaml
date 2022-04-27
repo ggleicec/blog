@@ -121,12 +121,12 @@ params:
     logo: "/images/refresh-square.svg"
     # option to specify your contact email in the footer
     email: 
-      link: name.surname@domain.com
-      title: My Email
+      link: "contactgleice@gmail.com"
+      title: "Email"
     # option to specify your linkedin profile in the footer
-    linkedin: 
-      link: your_linkedin_profile
-      title: My LinkedIn
+    # linkedin: 
+    #   link: your_linkedin_profile
+    #   title: My LinkedIn
     # option to specify your facebook account in the footer; 
     # **uncomment** the lines below to show in footer
     # facebook: 
@@ -144,14 +144,14 @@ params:
     #   title: Gitlab
     # option to specify your twitter username in the footer;
     # **uncomment** the below lines to show in footer
-    # twitter: 
-    #    link: username
-    #    title: Twitter
+    twitter: 
+      link: "https://www.twitter.com/ggleicec"
+      title: Twitter
     # option to specify your instagram username in the footer; 
     # **uncomment** the below lines to show in footer
-    # instagram: 
-    #    link: username
-    #    title: Instagram
+    instagram: 
+      link: "https://www.instagram.com/ggleicec"
+      title: Instagram
     # option to specify your telegram username in the footer; 
     # **uncomment** the below lines to show in footer
     # telegram: 
