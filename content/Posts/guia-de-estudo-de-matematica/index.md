@@ -14,7 +14,7 @@ Olá pessoal, sou estudante do Bacharelado em Matemática. Criei esse documento 
 
 > _”Persistência. Nada no mundo pode superar a persistência.”_
 
-Para melhor visualização dos pdfs baixe o app ReadEra na play store. 
+Para melhor visualização dos pdfs baixe o app ReadEra na play store. Você também pode baixar uma boa parte dos livros listados aqui via [torrent](livros.torrent) ou no [libgen](gen.lib.rus.ec).
 
 # Primeria seção: Matemátcia
 
