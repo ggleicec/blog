@@ -102,7 +102,7 @@ Conhecimento prévio de números e operações com números. Um curso inicial de
 * Álgebra Exterior — Elon Lages ⭐⭐
 * Lie Groups, Lie Algebras, and Representations — Brian C. Hall ⭐⭐⭐
 * A Term of Commutative Algebra — Kleiman ⭐⭐⭐
-* Introdução aos Grupos de Lie e às Variedades Diferenciáveis ⭐⭐⭐
+* Introdução aos Grupos de Lie e às Variedades Diferenciáveis — Conrado Damato de Lacerda ⭐⭐⭐
 * Teoria dos Números um passeio com primos e outros números familiares pelo mundo inteiro — F. Brochero, Carlos Gustavo, Nicolau Saldanha, Eduardo Tengan ⭐⭐
 * Multilinear Algebra — D. G. Northcott ⭐⭐
 * Tensors, differential forms, and variational principles — David Lovelock ⭐⭐⭐
