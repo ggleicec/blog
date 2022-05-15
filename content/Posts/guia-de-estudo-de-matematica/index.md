@@ -20,13 +20,6 @@ Para melhor visualização dos pdfs baixe o app ReadEra na play store.
 
 ## Cálculo Diferencial e Integral
 
-### Livros
-
-* Um curso de Cálculo, Vol 1 — Guidorizzi
-* Um curso de Cálculo, Vol 2 — Guidorizzi
-* Um curso de Cálculo, Vol 3 — Guidorizzi
-* Um curso de Cálculo, Vol 4 — Guidorizzi
-
 ### Pré-requisitos
 
 Nesse estágio inicial você precisa ter domínio nos seguintes assuntos que antecedem uma graduação em exatas: 
@@ -35,6 +28,13 @@ Nesse estágio inicial você precisa ter domínio nos seguintes assuntos que ant
 * Equações e inequações de 1º e 2º grau
 * Funções de 1º e 2 º grau, Log  e exponencial
 * Geometria Plana e Trigonometria 
+
+### Livros
+
+* Um curso de Cálculo, Vol 1 — Guidorizzi
+* Um curso de Cálculo, Vol 2 — Guidorizzi
+* Um curso de Cálculo, Vol 3 — Guidorizzi
+* Um curso de Cálculo, Vol 4 — Guidorizzi
 
 ## Geometria Analítica e Álgebra Linear 
 
