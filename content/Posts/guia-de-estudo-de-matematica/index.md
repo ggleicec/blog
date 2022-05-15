@@ -22,7 +22,10 @@ Para melhor visualização dos pdfs baixe o app ReadEra na play store.
 
 ### Livros
 
-* Um curso de Cálculo (Guidorizzi  Vol 1, 2, 3 e 4)
+* Um curso de Cálculo, Vol 1 — Guidorizzi
+* Um curso de Cálculo, Vol 2 — Guidorizzi
+* Um curso de Cálculo, Vol 3 — Guidorizzi
+* Um curso de Cálculo, Vol 4 — Guidorizzi
 
 ### Pré-requisitos
 
@@ -42,7 +45,10 @@ Os mesmos anteriores acrescidos das seguintes habilidades:
 * Teoria básica das matrizes (i.e, propriedades das matrizes, cálculo de determinantes, etc)
 
 ### Livros
-* Geometria Analítica e Álgebra linear (Elon Lages Lima),  Linear algebra done right (Sheldon Axler), Álgebra linear Coleção Schaum.
+
+* Geometria Analítica e Álgebra linear — Elon Lages Lima
+* Linear algebra done right — Sheldon Axler
+* Álgebra linear — Coleção Schaum
 
 ## Análise (na reta, no ℝⁿ, vetorial, funcional, complexa)
 
